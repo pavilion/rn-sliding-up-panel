@@ -11,6 +11,8 @@ export default StyleSheet.create({
   },
   animatedContainer: {
     flex: 1,
+    borderRadius: 20,
+    overflow: 'hidden',
     alignSelf: 'stretch',
     position: 'absolute',
     left: 0,
